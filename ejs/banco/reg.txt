@@ -1,0 +1,13 @@
+Clientes:
+
+aaron, moya, 1, True
+
+Queue 1:
+
+Queue 2:
+
+Clients Served:
+
+aaron, moya, 1, True
+aaron, moya, 1, True
+
